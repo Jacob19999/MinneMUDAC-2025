@@ -1,0 +1,22 @@
+```json
+{
+  "life_events": [
+    {
+      "event": "end of match",
+      "severity": 7
+    },
+    {
+      "event": "mental health issues",
+      "severity": 6
+    },
+    {
+      "event": "communication breakdown",
+      "severity": 5
+    },
+    {
+      "event": "safety concerns",
+      "severity": 5
+    }
+  ]
+}
+```
