@@ -247,6 +247,9 @@ main()  # Uses config defaults
   - Matches requiring intervention with specific Match IDs
   - Detailed notes and narratives for each match
   - Real-time filtering by year, quarter, state, and program type
+  - 
+<img width="1009" height="964" alt="image" src="https://github.com/user-attachments/assets/66038b30-02a2-45ec-b26b-8e282f5aaf4c" />
+
 
 **Location:** `BI/PowerBI Dashboard.pbix` and `BI/MinnMUDACPowerBI_latest.pbix`
 
