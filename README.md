@@ -4,7 +4,8 @@
 
 A comprehensive data analytics and machine learning pipeline for predicting mentorship match outcomes and identifying risk factors in the Big Brothers Big Sisters of America program.
 
----
+<img width="2127" height="1196" alt="image" src="https://github.com/user-attachments/assets/3176427a-6375-410c-9d3f-f9b8db42af8a" />
+
 
 ## 🚀 Key Innovation: LLM-Based Semantic Analysis
 
