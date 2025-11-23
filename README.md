@@ -4,7 +4,7 @@
 
 A comprehensive data analytics and machine learning pipeline for predicting mentorship match outcomes and identifying risk factors in the Big Brothers Big Sisters of America program.
 
----
+<img width="2127" height="1196" alt="image" src="https://github.com/user-attachments/assets/3176427a-6375-410c-9d3f-f9b8db42af8a" />
 
 ## 🚀 Key Innovation: LLM-Based Semantic Analysis
 
@@ -273,7 +273,7 @@ The LLM-based approach enables:
 
 | Rubric Item | Score |
 |------------|-------|
-| **Creativity & Innovation** | **3.50** ⭐ |
+| **Creativity & Innovation** | **3.50** |
 | Communication of Outcomes & Team Synergy | 3.10 |
 | Prediction | 3.03 |
 | Impact of Important Factors | 3.00 |
@@ -301,7 +301,7 @@ The **3.50 score in Creativity & Innovation** recognizes the project's novel use
 
 ---
 
-## 🚧 Future Enhancements
+## 🚧 Future Enhancements Retro
 
 - Fine-tune LLM on domain-specific data
 - Multi-model ensemble for LLM responses
