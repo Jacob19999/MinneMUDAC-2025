@@ -5,10 +5,6 @@
 A comprehensive data analytics and machine learning pipeline for predicting mentorship match outcomes and identifying risk factors in the Big Brothers Big Sisters of America program.
 
 <img width="2127" height="1196" alt="image" src="https://github.com/user-attachments/assets/3176427a-6375-410c-9d3f-f9b8db42af8a" />
-<img width="2041" height="1160" alt="image" src="https://github.com/user-attachments/assets/8d9d88e4-a463-4bdd-abb6-d8fb25798911" />
-<img width="2045" height="1156" alt="image" src="https://github.com/user-attachments/assets/a024b3c6-4581-4833-92bd-bd1d32ee5ddc" />
-<img width="1912" height="1068" alt="image" src="https://github.com/user-attachments/assets/dd1ff124-df48-4a3a-93b7-851733a11752" />
-
 
 ## 🚀 Key Innovation: LLM-Based Semantic Analysis
 
@@ -230,6 +226,10 @@ main()  # Uses config defaults
 - Error handling
 - Model persistence
 - Comprehensive logging
+
+<img width="2041" height="1160" alt="image" src="https://github.com/user-attachments/assets/8d9d88e4-a463-4bdd-abb6-d8fb25798911" />
+<img width="2045" height="1156" alt="image" src="https://github.com/user-attachments/assets/a024b3c6-4581-4833-92bd-bd1d32ee5ddc" />
+<img width="1912" height="1068" alt="image" src="https://github.com/user-attachments/assets/dd1ff124-df48-4a3a-93b7-851733a11752" />
 
 ---
 
