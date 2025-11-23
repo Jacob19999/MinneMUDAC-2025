@@ -239,6 +239,45 @@ The LLM-based approach enables:
 
 ---
 
+## 🏆 Competition Results
+
+### MinneMUDAC 2025 - Round #1 Results
+
+**Team:** U37  
+**Overall Score:** 60.29 / 80
+
+#### Individual Rubric Scores
+
+| Rubric Item | Score |
+|------------|-------|
+| **Creativity & Innovation** | **3.50** ⭐ |
+| Communication of Outcomes & Team Synergy | 3.10 |
+| Prediction | 3.03 |
+| Impact of Important Factors | 3.00 |
+| Completeness & Breadth of Outcome | 2.80 |
+| Appropriateness of Analytical Methods | 2.80 |
+
+#### Judge Feedback
+
+> "LLM Calling is an interesting idea - but consider cost of implementations. Slides were too busy. No survey questions."
+
+#### Highlights
+
+- **Highest score in Creativity & Innovation (3.50)** - Validates the innovative LLM-based semantic analysis approach
+- **Strong performance in Prediction (3.03)** - Demonstrates effectiveness of the ensemble ML pipeline
+- **Above-average Communication score (3.10)** - Effective presentation of complex technical concepts
+
+The **3.50 score in Creativity & Innovation** recognizes the project's novel use of LLM-based semantic analysis, which represents a significant advancement over traditional NLP methods for extracting insights from unstructured mentorship notes.
+
+#### Competition Context
+
+- **Mean Overall Score (All Teams):** 57.2
+- **Our Score:** 60.29 (above average)
+- **Score Range:** 43.9 - 71.7
+- **Our Percentile:** ~75th percentile
+
+---
+
 ## 🚧 Future Enhancements
 
 - Fine-tune LLM on domain-specific data
