@@ -251,7 +251,7 @@ main()  # Uses config defaults
 <img width="1009" height="964" alt="image" src="https://github.com/user-attachments/assets/66038b30-02a2-45ec-b26b-8e282f5aaf4c" />
 
 
-**Location:** `BI/PowerBI Dashboard.pbix` and `BI/MinnMUDACPowerBI_latest.pbix`
+**Location:** `BI/PowerBI Dashboard.pbix`
 
 ---
 
