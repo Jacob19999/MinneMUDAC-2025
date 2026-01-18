@@ -285,7 +285,7 @@ The LLM-based approach enables:
 
 #### Judge Feedback
 
-> "LLM Calling is an interesting idea - but consider cost of implementations. Slides were too busy. No survey questions."
+> "LLM Calling is an interesting idea - but consider cost of implementations."
 
 #### Highlights
 
