@@ -1,0 +1,539 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/bezrt7",
+    "id": "bezrt7",
+    "slide": 8,
+    "layoutId": "ff651192-285a-456d-b75c-d15ce45564f5",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "e70cbce6-0090-4c19-b0f3-88501743e684",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F5F6F2",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "ff651192-285a-456d-b75c-d15ce45564f5",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "e70cbce6-0090-4c19-b0f3-88501743e684",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "e70cbce6-0090-4c19-b0f3-88501743e684",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ylwb65sr",
+      "id": "1",
+      "bbox": [
+        64,
+        50,
+        1152,
+        108
+      ],
+      "geometry": "rect",
+      "text": "Support priorities for staff review",
+      "textPreview": "Support priorities for staff review",
+      "resolvedFontSize": 46,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 46,
+        "typeface": "Arial",
+        "color": "#16251E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Support priorities for staff review"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Support priorities for staff review",
+          "resolvedTextStyle": {
+            "fontSize": 46,
+            "typeface": "Arial",
+            "color": "#16251E",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Support priorities for staff review",
+              "fontSize": 46,
+              "typeface": "Arial",
+              "color": "#16251E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lonahkri",
+      "id": "2",
+      "bbox": [
+        1170,
+        676,
+        50,
+        22
+      ],
+      "geometry": "rect",
+      "text": "08",
+      "textPreview": "08",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Arial",
+        "color": "#52645A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "08"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "08",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Arial",
+            "color": "#52645A"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "08",
+              "fontSize": 16,
+              "typeface": "Arial",
+              "color": "#52645A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/hgby1wve",
+      "id": "3",
+      "bbox": [
+        64,
+        182,
+        1152,
+        389
+      ],
+      "text": "Signal in a note | Suggested coordinator response\nLoss of contact | Confirm contact preferences and arrange a joint check-in.\nRelocation or transport barriers | Review travel access and whether the match can continue.\nTime constraints or loss of interest | Agree on a realistic meeting plan with the participants.\nClosure discussion | Review the context and support an appropriate closure plan.",
+      "textPreview": "Signal in a note | Suggested coordinator response | Loss of contact | Confirm contact preferences and arrange a joint check-in. | Relocat...",
+      "rows": 5,
+      "cols": 2,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            64,
+            182,
+            365,
+            77.8
+          ],
+          "text": "Signal in a note",
+          "textPreview": "Signal in a note",
+          "fillColor": "#16251E",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Signal in a note",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Signal in a note"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            429,
+            182,
+            787,
+            77.8
+          ],
+          "text": "Suggested coordinator response",
+          "textPreview": "Suggested coordinator response",
+          "fillColor": "#16251E",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Suggested coordinator response",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Suggested coordinator response"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            64,
+            259.8,
+            365,
+            77.8
+          ],
+          "text": "Loss of contact",
+          "textPreview": "Loss of contact",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Loss of contact",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Loss of contact"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            429,
+            259.8,
+            787,
+            77.8
+          ],
+          "text": "Confirm contact preferences and arrange a joint check-in.",
+          "textPreview": "Confirm contact preferences and arrange a joint check-in.",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Confirm contact preferences and arrange a joint check-in.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Confirm contact preferences and arrange a joint check-in."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            64,
+            337.6,
+            365,
+            77.8
+          ],
+          "text": "Relocation or transport barriers",
+          "textPreview": "Relocation or transport barriers",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Relocation or transport barriers",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Relocation or transport barriers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            429,
+            337.6,
+            787,
+            77.8
+          ],
+          "text": "Review travel access and whether the match can continue.",
+          "textPreview": "Review travel access and whether the match can continue.",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Review travel access and whether the match can continue.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Review travel access and whether the match can continue."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            64,
+            415.4,
+            365,
+            77.8
+          ],
+          "text": "Time constraints or loss of interest",
+          "textPreview": "Time constraints or loss of interest",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Time constraints or loss of interest",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Time constraints or loss of interest"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            429,
+            415.4,
+            787,
+            77.8
+          ],
+          "text": "Agree on a realistic meeting plan with the participants.",
+          "textPreview": "Agree on a realistic meeting plan with the participants.",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Agree on a realistic meeting plan with the participants.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Agree on a realistic meeting plan with the participants."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            64,
+            493.2,
+            365,
+            77.8
+          ],
+          "text": "Closure discussion",
+          "textPreview": "Closure discussion",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Closure discussion",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Closure discussion"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            429,
+            493.2,
+            787,
+            77.8
+          ],
+          "text": "Review the context and support an appropriate closure plan.",
+          "textPreview": "Review the context and support an appropriate closure plan.",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Review the context and support an appropriate closure plan.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Review the context and support an appropriate closure plan."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7q5sja98",
+      "id": "4",
+      "bbox": [
+        64,
+        633,
+        1100,
+        39
+      ],
+      "geometry": "rect",
+      "text": "A coordinator reviews the source note and context before taking action.",
+      "textPreview": "A coordinator reviews the source note and context before taking action.",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "Arial",
+        "color": "#52645A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "A coordinator reviews the source note and context before taking action."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "A coordinator reviews the source note and context before taking action.",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Arial",
+            "color": "#52645A"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "A coordinator reviews the source note and context before taking action.",
+              "fontSize": 19,
+              "typeface": "Arial",
+              "color": "#52645A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

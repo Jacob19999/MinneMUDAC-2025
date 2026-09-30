@@ -1,0 +1,614 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/ccqinw",
+    "id": "ccqinw",
+    "slide": 13,
+    "layoutId": "ff651192-285a-456d-b75c-d15ce45564f5",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "e70cbce6-0090-4c19-b0f3-88501743e684",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F5F6F2",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "ff651192-285a-456d-b75c-d15ce45564f5",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "e70cbce6-0090-4c19-b0f3-88501743e684",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "e70cbce6-0090-4c19-b0f3-88501743e684",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zih4zm1o",
+      "id": "1",
+      "bbox": [
+        64,
+        50,
+        1152,
+        108
+      ],
+      "geometry": "rect",
+      "text": "Competition feedback",
+      "textPreview": "Competition feedback",
+      "resolvedFontSize": 46,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 46,
+        "typeface": "Arial",
+        "color": "#16251E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Competition feedback"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Competition feedback",
+          "resolvedTextStyle": {
+            "fontSize": 46,
+            "typeface": "Arial",
+            "color": "#16251E",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Competition feedback",
+              "fontSize": 46,
+              "typeface": "Arial",
+              "color": "#16251E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0jql8r29",
+      "id": "2",
+      "bbox": [
+        1170,
+        676,
+        50,
+        22
+      ],
+      "geometry": "rect",
+      "text": "13",
+      "textPreview": "13",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Arial",
+        "color": "#52645A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "13"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "13",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Arial",
+            "color": "#52645A"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "13",
+              "fontSize": 16,
+              "typeface": "Arial",
+              "color": "#52645A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1kzm1cju",
+      "id": "3",
+      "bbox": [
+        64,
+        177,
+        520,
+        106
+      ],
+      "geometry": "rect",
+      "text": "60.29 / 80",
+      "textPreview": "60.29 / 80",
+      "resolvedFontSize": 75,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 75,
+        "typeface": "Arial",
+        "color": "#007D55",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "60.29 / 80"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "60.29 / 80",
+          "resolvedTextStyle": {
+            "fontSize": 75,
+            "typeface": "Arial",
+            "color": "#007D55",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "60.29 / 80",
+              "fontSize": 75,
+              "typeface": "Arial",
+              "color": "#007D55",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qto32xk7",
+      "id": "4",
+      "bbox": [
+        69,
+        298,
+        500,
+        42
+      ],
+      "geometry": "rect",
+      "text": "Team U37, Round 1",
+      "textPreview": "Team U37, Round 1",
+      "resolvedFontSize": 26,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 26,
+        "typeface": "Arial",
+        "color": "#16251E",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Team U37, Round 1"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Team U37, Round 1",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "typeface": "Arial",
+            "color": "#16251E"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Team U37, Round 1",
+              "fontSize": 26,
+              "typeface": "Arial",
+              "color": "#16251E"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ruxkv21c",
+      "id": "5",
+      "bbox": [
+        748,
+        177,
+        460,
+        106
+      ],
+      "geometry": "rect",
+      "text": "57.2",
+      "textPreview": "57.2",
+      "resolvedFontSize": 75,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 75,
+        "typeface": "Arial",
+        "color": "#16251E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "57.2"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "57.2",
+          "resolvedTextStyle": {
+            "fontSize": 75,
+            "typeface": "Arial",
+            "color": "#16251E",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "57.2",
+              "fontSize": 75,
+              "typeface": "Arial",
+              "color": "#16251E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cvql472x",
+      "id": "6",
+      "bbox": [
+        752,
+        298,
+        462,
+        42
+      ],
+      "geometry": "rect",
+      "text": "Reported all-team mean",
+      "textPreview": "Reported all-team mean",
+      "resolvedFontSize": 26,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 26,
+        "typeface": "Arial",
+        "color": "#16251E",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Reported all-team mean"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Reported all-team mean",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "typeface": "Arial",
+            "color": "#16251E"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Reported all-team mean",
+              "fontSize": 26,
+              "typeface": "Arial",
+              "color": "#16251E"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dwzmxcji",
+      "id": "7",
+      "bbox": [
+        64,
+        411,
+        1150,
+        128
+      ],
+      "geometry": "rect",
+      "text": "“LLM Calling is an interesting idea -\nbut consider cost of implementations.”",
+      "textPreview": "“LLM Calling is an interesting idea - | but consider cost of implementations.”",
+      "resolvedFontSize": 39,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 39,
+        "typeface": "Arial",
+        "color": "#16251E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "“LLM Calling is an interesting idea -"
+          },
+          {
+            "index": 2,
+            "text": "but consider cost of implementations.”"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "“LLM Calling is an interesting idea -",
+          "resolvedTextStyle": {
+            "fontSize": 39,
+            "typeface": "Arial",
+            "color": "#16251E",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "“LLM Calling is an interesting idea -",
+              "fontSize": 39,
+              "typeface": "Arial",
+              "color": "#16251E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "but consider cost of implementations.”",
+          "resolvedTextStyle": {
+            "fontSize": 39,
+            "typeface": "Arial",
+            "color": "#16251E",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "but consider cost of implementations.”",
+              "fontSize": 39,
+              "typeface": "Arial",
+              "color": "#16251E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2po3yxkv",
+      "id": "8",
+      "bbox": [
+        64,
+        609,
+        1100,
+        39
+      ],
+      "geometry": "rect",
+      "text": "README-reported results. Cost measurement and evaluation rigor are priorities for the next iteration.",
+      "textPreview": "README-reported results. Cost measurement and evaluation rigor are priorities for the next iteration.",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "Arial",
+        "color": "#52645A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "README-reported results. Cost measurement and evaluation rigor are priorities for the next iteration."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "README-reported results. Cost measurement and evaluation rigor are priorities for the next iteration.",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Arial",
+            "color": "#52645A"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "README-reported results. Cost measurement and evaluation rigor are priorities for the next iteration.",
+              "fontSize": 19,
+              "typeface": "Arial",
+              "color": "#52645A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

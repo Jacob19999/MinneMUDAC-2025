@@ -1,0 +1,168 @@
+{
+  "novice_n": 3275,
+  "stages": {
+    "Closed": 2486,
+    "Active": 774,
+    "Pending Closure": 15
+  },
+  "closed_summary": {
+    "count": 2486.0,
+    "mean": 20.737127916331456,
+    "std": 16.566355606038506,
+    "min": 0.0,
+    "25%": 8.7,
+    "50%": 15.7,
+    "75%": 28.2,
+    "max": 94.1
+  },
+  "event_rows": 25050,
+  "event_columns": 34,
+  "top_events": [
+    [
+      "COVID impact",
+      3758
+    ],
+    [
+      "Match closure Discussed",
+      2237
+    ],
+    [
+      "Child/Family: Lost contact with volunteer",
+      1552
+    ],
+    [
+      "Child/Family: Moved",
+      1201
+    ],
+    [
+      "Child/Family: Time constraints",
+      994
+    ],
+    [
+      "Changing Match Type",
+      866
+    ],
+    [
+      "Volunteer: Feels incompatible with child/family",
+      606
+    ],
+    [
+      "Child: Lost interest",
+      600
+    ],
+    [
+      "Volunteer: Moved out of service area",
+      561
+    ],
+    [
+      "Volunteer: Lost contact with child/family",
+      541
+    ],
+    [
+      "Volunteer: Pregnancy",
+      523
+    ],
+    [
+      "Child/Family: Moved within service area",
+      476
+    ],
+    [
+      "Child: Severity of challenges",
+      465
+    ],
+    [
+      "Child: Changed school/site",
+      442
+    ],
+    [
+      "Volunteer: Moved within service area",
+      441
+    ],
+    [
+      "Child/Family: Lost contact with agency",
+      326
+    ],
+    [
+      "Child/Family: Infraction of match rules/agency policies",
+      210
+    ],
+    [
+      "Child/Family: Feels incompatible with volunteer",
+      195
+    ],
+    [
+      "Volunteer: Transportation Issues",
+      188
+    ],
+    [
+      "Child: Transportation Issues",
+      185
+    ],
+    [
+      "Child/Family: Unrealistic expectations",
+      169
+    ],
+    [
+      "Child: Graduated",
+      169
+    ],
+    [
+      "Volunteer: Infraction of match rules/agency policies",
+      118
+    ],
+    [
+      "Volunteer: Lost contact with agency",
+      113
+    ],
+    [
+      "Child/Family: Lost contact with volunteer/agency",
+      105
+    ],
+    [
+      "Child: Family structure changed",
+      63
+    ],
+    [
+      "Agency: Concern with Volunteer re: child safety",
+      63
+    ],
+    [
+      "Volunteer: Unrealistic expectations",
+      62
+    ],
+    [
+      "Agency: Challenges with program/partnership",
+      60
+    ],
+    [
+      "Volunteer: Deceased",
+      55
+    ],
+    [
+      "Volunteer: Changed workplace/school partnership",
+      36
+    ],
+    [
+      "Child/Family: Moved out of service",
+      23
+    ],
+    [
+      "Volunteer: Lost contact with child/agency",
+      0
+    ],
+    [
+      "Volunteer: Time constraint",
+      0
+    ]
+  ],
+  "flag_totals": {
+    "green_flag_count": 46390,
+    "red_flag_count": 7408
+  },
+  "event_matches": 3275,
+  "date_range": [
+    "2017-01-11",
+    "2025-09-23"
+  ],
+  "invalid_event_dates": 511
+}

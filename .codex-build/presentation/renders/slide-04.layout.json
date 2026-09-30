@@ -1,0 +1,563 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/8hcgim",
+    "id": "8hcgim",
+    "slide": 4,
+    "layoutId": "ff651192-285a-456d-b75c-d15ce45564f5",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "e70cbce6-0090-4c19-b0f3-88501743e684",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F5F6F2",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "ff651192-285a-456d-b75c-d15ce45564f5",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "e70cbce6-0090-4c19-b0f3-88501743e684",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "e70cbce6-0090-4c19-b0f3-88501743e684",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i5krmhcb",
+      "id": "1",
+      "bbox": [
+        64,
+        50,
+        1152,
+        108
+      ],
+      "geometry": "rect",
+      "text": "Match status and duration",
+      "textPreview": "Match status and duration",
+      "resolvedFontSize": 46,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 46,
+        "typeface": "Arial",
+        "color": "#16251E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Match status and duration"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Match status and duration",
+          "resolvedTextStyle": {
+            "fontSize": 46,
+            "typeface": "Arial",
+            "color": "#16251E",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Match status and duration",
+              "fontSize": 46,
+              "typeface": "Arial",
+              "color": "#16251E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/58vaxwvm",
+      "id": "2",
+      "bbox": [
+        1170,
+        676,
+        50,
+        22
+      ],
+      "geometry": "rect",
+      "text": "04",
+      "textPreview": "04",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Arial",
+        "color": "#52645A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "04"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "04",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Arial",
+            "color": "#52645A"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "04",
+              "fontSize": 16,
+              "typeface": "Arial",
+              "color": "#52645A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "chart",
+      "scope": "slide",
+      "aid": "ch/kbuh43ih",
+      "id": "3",
+      "bbox": [
+        64,
+        199,
+        715,
+        383
+      ],
+      "chartType": "bar"
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v2t8rmdk",
+      "id": "4",
+      "bbox": [
+        862,
+        196,
+        340,
+        106
+      ],
+      "geometry": "rect",
+      "text": "15.7",
+      "textPreview": "15.7",
+      "resolvedFontSize": 88,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 88,
+        "typeface": "Arial",
+        "color": "#007D55",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "15.7"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "15.7",
+          "resolvedTextStyle": {
+            "fontSize": 88,
+            "typeface": "Arial",
+            "color": "#007D55",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "15.7",
+              "fontSize": 88,
+              "typeface": "Arial",
+              "color": "#007D55",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u1krihcz",
+      "id": "5",
+      "bbox": [
+        865,
+        300,
+        326,
+        100
+      ],
+      "geometry": "rect",
+      "text": "months\nmedian closed-match length",
+      "textPreview": "months | median closed-match length",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 27,
+        "typeface": "Arial",
+        "color": "#16251E",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "months"
+          },
+          {
+            "index": 2,
+            "text": "median closed-match"
+          },
+          {
+            "index": 3,
+            "text": "length"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "months",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Arial",
+            "color": "#16251E"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "months",
+              "fontSize": 27,
+              "typeface": "Arial",
+              "color": "#16251E"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "median closed-match length",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Arial",
+            "color": "#16251E"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "median closed-match length",
+              "fontSize": 27,
+              "typeface": "Arial",
+              "color": "#16251E"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4bqtwvq",
+      "id": "6",
+      "bbox": [
+        860,
+        466,
+        348,
+        51
+      ],
+      "geometry": "rect",
+      "text": "8.7 to 28.2 months",
+      "textPreview": "8.7 to 28.2 months",
+      "resolvedFontSize": 30,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 30,
+        "typeface": "Arial",
+        "color": "#16251E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "8.7 to 28.2 months"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "8.7 to 28.2 months",
+          "resolvedTextStyle": {
+            "fontSize": 30,
+            "typeface": "Arial",
+            "color": "#16251E",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "8.7 to 28.2 months",
+              "fontSize": 30,
+              "typeface": "Arial",
+              "color": "#16251E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w329kru5",
+      "id": "7",
+      "bbox": [
+        864,
+        525,
+        343,
+        66
+      ],
+      "geometry": "rect",
+      "text": "Middle 50% of closed matches",
+      "textPreview": "Middle 50% of closed matches",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 25,
+        "typeface": "Arial",
+        "color": "#52645A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Middle 50% of closed matches"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Middle 50% of closed matches",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "Arial",
+            "color": "#52645A"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Middle 50% of closed matches",
+              "fontSize": 25,
+              "typeface": "Arial",
+              "color": "#52645A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7e98n2do",
+      "id": "8",
+      "bbox": [
+        64,
+        640,
+        1100,
+        39
+      ],
+      "geometry": "rect",
+      "text": "Source snapshot: 3,275 matches. Duration figures use the 2,486 closed matches only.",
+      "textPreview": "Source snapshot: 3,275 matches. Duration figures use the 2,486 closed matches only.",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "Arial",
+        "color": "#52645A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Source snapshot: 3,275 matches. Duration figures use the 2,486 closed matches only."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Source snapshot: 3,275 matches. Duration figures use the 2,486 closed matches only.",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Arial",
+            "color": "#52645A"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Source snapshot: 3,275 matches. Duration figures use the 2,486 closed matches only.",
+              "fontSize": 19,
+              "typeface": "Arial",
+              "color": "#52645A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

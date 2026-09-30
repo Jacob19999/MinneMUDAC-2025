@@ -1,0 +1,544 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/y8wvs1",
+    "id": "y8wvs1",
+    "slide": 1,
+    "layoutId": "ff651192-285a-456d-b75c-d15ce45564f5",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "e70cbce6-0090-4c19-b0f3-88501743e684",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#101B16",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "ff651192-285a-456d-b75c-d15ce45564f5",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "e70cbce6-0090-4c19-b0f3-88501743e684",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "e70cbce6-0090-4c19-b0f3-88501743e684",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qt4rmlcj",
+      "id": "1",
+      "bbox": [
+        1170,
+        676,
+        50,
+        22
+      ],
+      "geometry": "rect",
+      "text": "01",
+      "textPreview": "01",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Arial",
+        "color": "#A5B7AA",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "01"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "01",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Arial",
+            "color": "#A5B7AA"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "01",
+              "fontSize": 16,
+              "typeface": "Arial",
+              "color": "#A5B7AA"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dwvah0vu",
+      "id": "2",
+      "bbox": [
+        64,
+        92,
+        690,
+        188
+      ],
+      "geometry": "rect",
+      "text": "Mentorship\nmatch analytics",
+      "textPreview": "Mentorship | match analytics",
+      "resolvedFontSize": 70,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 70,
+        "typeface": "Arial",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Mentorship"
+          },
+          {
+            "index": 2,
+            "text": "match analytics"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Mentorship",
+          "resolvedTextStyle": {
+            "fontSize": 70,
+            "typeface": "Arial",
+            "color": "#FFFFFF",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Mentorship",
+              "fontSize": 70,
+              "typeface": "Arial",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "match analytics",
+          "resolvedTextStyle": {
+            "fontSize": 70,
+            "typeface": "Arial",
+            "color": "#FFFFFF",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "match analytics",
+              "fontSize": 70,
+              "typeface": "Arial",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cvmtovu9",
+      "id": "3",
+      "bbox": [
+        68,
+        310,
+        650,
+        46
+      ],
+      "geometry": "rect",
+      "text": "Big Brothers Big Sisters",
+      "textPreview": "Big Brothers Big Sisters",
+      "resolvedFontSize": 30,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 30,
+        "typeface": "Arial",
+        "color": "#00D58B",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Big Brothers Big Sisters"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Big Brothers Big Sisters",
+          "resolvedTextStyle": {
+            "fontSize": 30,
+            "typeface": "Arial",
+            "color": "#00D58B"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Big Brothers Big Sisters",
+              "fontSize": 30,
+              "typeface": "Arial",
+              "color": "#00D58B"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/36dsbqds",
+      "id": "4",
+      "bbox": [
+        68,
+        377,
+        630,
+        105
+      ],
+      "geometry": "rect",
+      "text": "Support notes, match duration\nand staff decision support",
+      "textPreview": "Support notes, match duration | and staff decision support",
+      "resolvedFontSize": 30,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 30,
+        "typeface": "Arial",
+        "color": "#FFFFFF",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Support notes, match duration"
+          },
+          {
+            "index": 2,
+            "text": "and staff decision support"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Support notes, match duration",
+          "resolvedTextStyle": {
+            "fontSize": 30,
+            "typeface": "Arial",
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Support notes, match duration",
+              "fontSize": 30,
+              "typeface": "Arial",
+              "color": "#FFFFFF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "and staff decision support",
+          "resolvedTextStyle": {
+            "fontSize": 30,
+            "typeface": "Arial",
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "and staff decision support",
+              "fontSize": 30,
+              "typeface": "Arial",
+              "color": "#FFFFFF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/zq9sn2l4",
+      "id": "5",
+      "bbox": [
+        738,
+        150,
+        478,
+        397
+      ],
+      "alt": "Repository photograph of young people wearing Big Brothers Big Sisters shirts",
+      "contentType": "image/jpeg",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "6f3b131d-0238-4010-b935-8ec435da3cd1",
+        "contentType": "image/jpeg",
+        "byteLength": 212485
+      }
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/psvadgvy",
+      "id": "6",
+      "bbox": [
+        68,
+        573,
+        520,
+        77
+      ],
+      "geometry": "rect",
+      "text": "Team U37\nMinneMUDAC 2025",
+      "textPreview": "Team U37 | MinneMUDAC 2025",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Arial",
+        "color": "#BCCDC2",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Team U37"
+          },
+          {
+            "index": 2,
+            "text": "MinneMUDAC 2025"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Team U37",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Arial",
+            "color": "#BCCDC2"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Team U37",
+              "fontSize": 24,
+              "typeface": "Arial",
+              "color": "#BCCDC2"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "MinneMUDAC 2025",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Arial",
+            "color": "#BCCDC2"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "MinneMUDAC 2025",
+              "fontSize": 24,
+              "typeface": "Arial",
+              "color": "#BCCDC2"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o7m9kbud",
+      "id": "7",
+      "bbox": [
+        738,
+        584,
+        478,
+        50
+      ],
+      "geometry": "rect",
+      "text": "Updated September 30, 2026",
+      "textPreview": "Updated September 30, 2026",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Arial",
+        "color": "#BCCDC2",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Updated September 30, 2026"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Updated September 30, 2026",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Arial",
+            "color": "#BCCDC2"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Updated September 30, 2026",
+              "fontSize": 22,
+              "typeface": "Arial",
+              "color": "#BCCDC2"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

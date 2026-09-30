@@ -1,0 +1,591 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/pr491w",
+    "id": "pr491w",
+    "slide": 14,
+    "layoutId": "ff651192-285a-456d-b75c-d15ce45564f5",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "e70cbce6-0090-4c19-b0f3-88501743e684",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F5F6F2",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "ff651192-285a-456d-b75c-d15ce45564f5",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "e70cbce6-0090-4c19-b0f3-88501743e684",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "e70cbce6-0090-4c19-b0f3-88501743e684",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lcf6p8fe",
+      "id": "1",
+      "bbox": [
+        64,
+        50,
+        1152,
+        108
+      ],
+      "geometry": "rect",
+      "text": "Proposed pilot",
+      "textPreview": "Proposed pilot",
+      "resolvedFontSize": 46,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 46,
+        "typeface": "Arial",
+        "color": "#16251E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Proposed pilot"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Proposed pilot",
+          "resolvedTextStyle": {
+            "fontSize": 46,
+            "typeface": "Arial",
+            "color": "#16251E",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Proposed pilot",
+              "fontSize": 46,
+              "typeface": "Arial",
+              "color": "#16251E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y9o7etgn",
+      "id": "2",
+      "bbox": [
+        1170,
+        676,
+        50,
+        22
+      ],
+      "geometry": "rect",
+      "text": "14",
+      "textPreview": "14",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Arial",
+        "color": "#52645A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "14"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "14",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Arial",
+            "color": "#52645A"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "14",
+              "fontSize": 16,
+              "typeface": "Arial",
+              "color": "#52645A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/mhkr21sv",
+      "id": "3",
+      "bbox": [
+        64,
+        188,
+        1152,
+        374
+      ],
+      "text": "Phase | Work | Evidence for the next decision\nRepair and benchmark | Fix extraction and reproduce a common model test. | Reliable output and a valid baseline comparison\nStaff label review | Coordinators annotate a sample of notes. | Event precision, recall and disagreement patterns\nLimited pilot | Staff review suggested signals during normal work. | Review time, alert burden and cost per match",
+      "textPreview": "Phase | Work | Evidence for the next decision | Repair and benchmark | Fix extraction and reproduce a common model test. | Reliable outpu...",
+      "rows": 4,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            64,
+            188,
+            275,
+            93.5
+          ],
+          "text": "Phase",
+          "textPreview": "Phase",
+          "fillColor": "#16251E",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Phase",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Phase"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            339,
+            188,
+            420,
+            93.5
+          ],
+          "text": "Work",
+          "textPreview": "Work",
+          "fillColor": "#16251E",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Work",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Work"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            759,
+            188,
+            457,
+            93.5
+          ],
+          "text": "Evidence for the next decision",
+          "textPreview": "Evidence for the next decision",
+          "fillColor": "#16251E",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Evidence for the next decision",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Evidence for the next decision"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            64,
+            281.5,
+            275,
+            93.5
+          ],
+          "text": "Repair and benchmark",
+          "textPreview": "Repair and benchmark",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Repair and benchmark",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Repair and benchmark"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            339,
+            281.5,
+            420,
+            93.5
+          ],
+          "text": "Fix extraction and reproduce a common model test.",
+          "textPreview": "Fix extraction and reproduce a common model test.",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Fix extraction and reproduce a common model test.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fix extraction and reproduce a common model test."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            759,
+            281.5,
+            457,
+            93.5
+          ],
+          "text": "Reliable output and a valid baseline comparison",
+          "textPreview": "Reliable output and a valid baseline comparison",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Reliable output and a valid baseline comparison",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Reliable output and a valid baseline comparison"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            64,
+            375,
+            275,
+            93.5
+          ],
+          "text": "Staff label review",
+          "textPreview": "Staff label review",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Staff label review",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Staff label review"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            339,
+            375,
+            420,
+            93.5
+          ],
+          "text": "Coordinators annotate a sample of notes.",
+          "textPreview": "Coordinators annotate a sample of notes.",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Coordinators annotate a sample of notes.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Coordinators annotate a sample of notes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            759,
+            375,
+            457,
+            93.5
+          ],
+          "text": "Event precision, recall and disagreement patterns",
+          "textPreview": "Event precision, recall and disagreement patterns",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Event precision, recall and disagreement patterns",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Event precision, recall and disagreement patterns"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            64,
+            468.5,
+            275,
+            93.5
+          ],
+          "text": "Limited pilot",
+          "textPreview": "Limited pilot",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Limited pilot",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Limited pilot"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            339,
+            468.5,
+            420,
+            93.5
+          ],
+          "text": "Staff review suggested signals during normal work.",
+          "textPreview": "Staff review suggested signals during normal work.",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Staff review suggested signals during normal work.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Staff review suggested signals during normal work."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            759,
+            468.5,
+            457,
+            93.5
+          ],
+          "text": "Review time, alert burden and cost per match",
+          "textPreview": "Review time, alert burden and cost per match",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Review time, alert burden and cost per match",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Review time, alert burden and cost per match"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w7mpcjyh",
+      "id": "4",
+      "bbox": [
+        64,
+        618,
+        1100,
+        39
+      ],
+      "geometry": "rect",
+      "text": "BBB stakeholders set the success thresholds before the pilot begins.",
+      "textPreview": "BBB stakeholders set the success thresholds before the pilot begins.",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "Arial",
+        "color": "#52645A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "BBB stakeholders set the success thresholds before the pilot begins."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "BBB stakeholders set the success thresholds before the pilot begins.",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Arial",
+            "color": "#52645A"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "BBB stakeholders set the success thresholds before the pilot begins.",
+              "fontSize": 19,
+              "typeface": "Arial",
+              "color": "#52645A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

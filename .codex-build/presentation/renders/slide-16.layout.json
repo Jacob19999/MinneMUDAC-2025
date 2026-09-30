@@ -1,0 +1,539 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/oe5i0z",
+    "id": "oe5i0z",
+    "slide": 16,
+    "layoutId": "ff651192-285a-456d-b75c-d15ce45564f5",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "e70cbce6-0090-4c19-b0f3-88501743e684",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F5F6F2",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "ff651192-285a-456d-b75c-d15ce45564f5",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "e70cbce6-0090-4c19-b0f3-88501743e684",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "e70cbce6-0090-4c19-b0f3-88501743e684",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a9svehgn",
+      "id": "1",
+      "bbox": [
+        64,
+        50,
+        1152,
+        108
+      ],
+      "geometry": "rect",
+      "text": "Appendix: implementation priorities",
+      "textPreview": "Appendix: implementation priorities",
+      "resolvedFontSize": 46,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 46,
+        "typeface": "Arial",
+        "color": "#16251E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Appendix: implementation priorities"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Appendix: implementation priorities",
+          "resolvedTextStyle": {
+            "fontSize": 46,
+            "typeface": "Arial",
+            "color": "#16251E",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Appendix: implementation priorities",
+              "fontSize": 46,
+              "typeface": "Arial",
+              "color": "#16251E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xc3upwfe",
+      "id": "2",
+      "bbox": [
+        1170,
+        676,
+        50,
+        22
+      ],
+      "geometry": "rect",
+      "text": "16",
+      "textPreview": "16",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Arial",
+        "color": "#52645A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "16"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "16",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Arial",
+            "color": "#52645A"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "16",
+              "fontSize": 16,
+              "typeface": "Arial",
+              "color": "#52645A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/9knu18j6",
+      "id": "3",
+      "bbox": [
+        64,
+        182,
+        1152,
+        386
+      ],
+      "text": "Priority | Required work\nCredential handling | Revoke the exposed key and load secrets only from the environment.\nExtraction reliability | Normalize response lists and retain failures in the returned error ledger.\nModel correctness | Select the last observed row and mask padded attention positions.\nReproducibility | Repair file paths and record the cohort, cutoff, configuration and usage.",
+      "textPreview": "Priority | Required work | Credential handling | Revoke the exposed key and load secrets only from the environment. | Extraction reliabil...",
+      "rows": 5,
+      "cols": 2,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            64,
+            182,
+            323,
+            77.2
+          ],
+          "text": "Priority",
+          "textPreview": "Priority",
+          "fillColor": "#16251E",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Priority",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Priority"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            387,
+            182,
+            829,
+            77.2
+          ],
+          "text": "Required work",
+          "textPreview": "Required work",
+          "fillColor": "#16251E",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Required work",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Required work"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            64,
+            259.2,
+            323,
+            77.2
+          ],
+          "text": "Credential handling",
+          "textPreview": "Credential handling",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Credential handling",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Credential handling"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            387,
+            259.2,
+            829,
+            77.2
+          ],
+          "text": "Revoke the exposed key and load secrets only from the environment.",
+          "textPreview": "Revoke the exposed key and load secrets only from the environment.",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Revoke the exposed key and load secrets only from the environment.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Revoke the exposed key and load secrets only from the environment."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            64,
+            336.4,
+            323,
+            77.2
+          ],
+          "text": "Extraction reliability",
+          "textPreview": "Extraction reliability",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Extraction reliability",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Extraction reliability"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            387,
+            336.4,
+            829,
+            77.2
+          ],
+          "text": "Normalize response lists and retain failures in the returned error ledger.",
+          "textPreview": "Normalize response lists and retain failures in the returned error ledger.",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Normalize response lists and retain failures in the returned error ledger.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Normalize response lists and retain failures in the returned error ledger."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            64,
+            413.6,
+            323,
+            77.2
+          ],
+          "text": "Model correctness",
+          "textPreview": "Model correctness",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Model correctness",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Model correctness"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            387,
+            413.6,
+            829,
+            77.2
+          ],
+          "text": "Select the last observed row and mask padded attention positions.",
+          "textPreview": "Select the last observed row and mask padded attention positions.",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Select the last observed row and mask padded attention positions.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Select the last observed row and mask padded attention positions."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            64,
+            490.8,
+            323,
+            77.2
+          ],
+          "text": "Reproducibility",
+          "textPreview": "Reproducibility",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Reproducibility",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Reproducibility"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            387,
+            490.8,
+            829,
+            77.2
+          ],
+          "text": "Repair file paths and record the cohort, cutoff, configuration and usage.",
+          "textPreview": "Repair file paths and record the cohort, cutoff, configuration and usage.",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Repair file paths and record the cohort, cutoff, configuration and usage.",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Repair file paths and record the cohort, cutoff, configuration and usage."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n61cjmhc",
+      "id": "4",
+      "bbox": [
+        64,
+        619,
+        1100,
+        39
+      ],
+      "geometry": "rect",
+      "text": "Detailed evidence and source locations accompany the deck in Repository_Review.md.",
+      "textPreview": "Detailed evidence and source locations accompany the deck in Repository_Review.md.",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "Arial",
+        "color": "#52645A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Detailed evidence and source locations accompany the deck in Repository_Review.md."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Detailed evidence and source locations accompany the deck in Repository_Review.md.",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Arial",
+            "color": "#52645A"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Detailed evidence and source locations accompany the deck in Repository_Review.md.",
+              "fontSize": 19,
+              "typeface": "Arial",
+              "color": "#52645A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

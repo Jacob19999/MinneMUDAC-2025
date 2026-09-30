@@ -1,0 +1,762 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/92b9mj",
+    "id": "92b9mj",
+    "slide": 3,
+    "layoutId": "ff651192-285a-456d-b75c-d15ce45564f5",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "e70cbce6-0090-4c19-b0f3-88501743e684",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F5F6F2",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "ff651192-285a-456d-b75c-d15ce45564f5",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "e70cbce6-0090-4c19-b0f3-88501743e684",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "e70cbce6-0090-4c19-b0f3-88501743e684",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5ofip83u",
+      "id": "1",
+      "bbox": [
+        64,
+        50,
+        1152,
+        108
+      ],
+      "geometry": "rect",
+      "text": "Data and prediction task",
+      "textPreview": "Data and prediction task",
+      "resolvedFontSize": 46,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 46,
+        "typeface": "Arial",
+        "color": "#16251E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Data and prediction task"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Data and prediction task",
+          "resolvedTextStyle": {
+            "fontSize": 46,
+            "typeface": "Arial",
+            "color": "#16251E",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Data and prediction task",
+              "fontSize": 46,
+              "typeface": "Arial",
+              "color": "#16251E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ilozet43",
+      "id": "2",
+      "bbox": [
+        1170,
+        676,
+        50,
+        22
+      ],
+      "geometry": "rect",
+      "text": "03",
+      "textPreview": "03",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Arial",
+        "color": "#52645A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "03"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "03",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Arial",
+            "color": "#52645A"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "03",
+              "fontSize": 16,
+              "typeface": "Arial",
+              "color": "#52645A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/2ts7u5c7",
+      "id": "3",
+      "bbox": [
+        64,
+        184,
+        1152,
+        314
+      ],
+      "text": "Artifact | Rows | Matches | Role\nTraining source | 39,345 | 3,275 | Match and note instances\nTruncated test input | 2,566 | 300 | Partial histories to predict duration\nSaved event extraction | 25,050 | 3,275 | LLM features for analysis",
+      "textPreview": "Artifact | Rows | Matches | Role | Training source | 39,345 | 3,275 | Match and note instances | Truncated test input | 2,566 | 300 | Par...",
+      "rows": 4,
+      "cols": 4,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            64,
+            184,
+            335,
+            78.5
+          ],
+          "text": "Artifact",
+          "textPreview": "Artifact",
+          "fillColor": "#16251E",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Artifact",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Artifact"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            399,
+            184,
+            150,
+            78.5
+          ],
+          "text": "Rows",
+          "textPreview": "Rows",
+          "fillColor": "#16251E",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Rows",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Rows"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            549,
+            184,
+            160,
+            78.5
+          ],
+          "text": "Matches",
+          "textPreview": "Matches",
+          "fillColor": "#16251E",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Matches",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Matches"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            709,
+            184,
+            507,
+            78.5
+          ],
+          "text": "Role",
+          "textPreview": "Role",
+          "fillColor": "#16251E",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Role",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Role"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            64,
+            262.5,
+            335,
+            78.5
+          ],
+          "text": "Training source",
+          "textPreview": "Training source",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Training source",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Training source"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            399,
+            262.5,
+            150,
+            78.5
+          ],
+          "text": "39,345",
+          "textPreview": "39,345",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "39,345",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "39,345"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            549,
+            262.5,
+            160,
+            78.5
+          ],
+          "text": "3,275",
+          "textPreview": "3,275",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "3,275",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "3,275"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            709,
+            262.5,
+            507,
+            78.5
+          ],
+          "text": "Match and note instances",
+          "textPreview": "Match and note instances",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Match and note instances",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Match and note instances"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            64,
+            341,
+            335,
+            78.5
+          ],
+          "text": "Truncated test input",
+          "textPreview": "Truncated test input",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Truncated test input",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Truncated test input"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            399,
+            341,
+            150,
+            78.5
+          ],
+          "text": "2,566",
+          "textPreview": "2,566",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2,566",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2,566"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            549,
+            341,
+            160,
+            78.5
+          ],
+          "text": "300",
+          "textPreview": "300",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "300",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "300"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            709,
+            341,
+            507,
+            78.5
+          ],
+          "text": "Partial histories to predict duration",
+          "textPreview": "Partial histories to predict duration",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Partial histories to predict duration",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Partial histories to predict duration"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            64,
+            419.5,
+            335,
+            78.5
+          ],
+          "text": "Saved event extraction",
+          "textPreview": "Saved event extraction",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Saved event extraction",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Saved event extraction"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            399,
+            419.5,
+            150,
+            78.5
+          ],
+          "text": "25,050",
+          "textPreview": "25,050",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "25,050",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "25,050"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            549,
+            419.5,
+            160,
+            78.5
+          ],
+          "text": "3,275",
+          "textPreview": "3,275",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "3,275",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "3,275"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            709,
+            419.5,
+            507,
+            78.5
+          ],
+          "text": "LLM features for analysis",
+          "textPreview": "LLM features for analysis",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "LLM features for analysis",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "LLM features for analysis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wj6hcjmd",
+      "id": "4",
+      "bbox": [
+        64,
+        531,
+        1145,
+        47
+      ],
+      "geometry": "rect",
+      "text": "Target: match length in months",
+      "textPreview": "Target: match length in months",
+      "resolvedFontSize": 31,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 31,
+        "typeface": "Arial",
+        "color": "#007D55",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Target: match length in months"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Target: match length in months",
+          "resolvedTextStyle": {
+            "fontSize": 31,
+            "typeface": "Arial",
+            "color": "#007D55",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Target: match length in months",
+              "fontSize": 31,
+              "typeface": "Arial",
+              "color": "#007D55",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hkfilo3y",
+      "id": "5",
+      "bbox": [
+        64,
+        594,
+        1100,
+        39
+      ],
+      "geometry": "rect",
+      "text": "Test input omits recent notes and closure fields. Active matches remain ongoing.",
+      "textPreview": "Test input omits recent notes and closure fields. Active matches remain ongoing.",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "Arial",
+        "color": "#52645A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Test input omits recent notes and closure fields. Active matches remain ongoing."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Test input omits recent notes and closure fields. Active matches remain ongoing.",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Arial",
+            "color": "#52645A"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Test input omits recent notes and closure fields. Active matches remain ongoing.",
+              "fontSize": 19,
+              "typeface": "Arial",
+              "color": "#52645A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,668 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/o85dbw",
+    "id": "o85dbw",
+    "slide": 9,
+    "layoutId": "ff651192-285a-456d-b75c-d15ce45564f5",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "e70cbce6-0090-4c19-b0f3-88501743e684",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F5F6F2",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "ff651192-285a-456d-b75c-d15ce45564f5",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "e70cbce6-0090-4c19-b0f3-88501743e684",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "e70cbce6-0090-4c19-b0f3-88501743e684",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tsjidof2",
+      "id": "1",
+      "bbox": [
+        64,
+        50,
+        1152,
+        108
+      ],
+      "geometry": "rect",
+      "text": "Saved model results",
+      "textPreview": "Saved model results",
+      "resolvedFontSize": 46,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 46,
+        "typeface": "Arial",
+        "color": "#16251E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Saved model results"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Saved model results",
+          "resolvedTextStyle": {
+            "fontSize": 46,
+            "typeface": "Arial",
+            "color": "#16251E",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Saved model results",
+              "fontSize": 46,
+              "typeface": "Arial",
+              "color": "#16251E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6pszi9gb",
+      "id": "2",
+      "bbox": [
+        1170,
+        676,
+        50,
+        22
+      ],
+      "geometry": "rect",
+      "text": "09",
+      "textPreview": "09",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Arial",
+        "color": "#52645A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "09",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Arial",
+            "color": "#52645A"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "09",
+              "fontSize": 16,
+              "typeface": "Arial",
+              "color": "#52645A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/yx4j2hoz",
+      "id": "3",
+      "bbox": [
+        64,
+        181,
+        1152,
+        341
+      ],
+      "text": "Experiment | Recorded result | Evaluation\nRandom Forest | RMSE 2.89 months | Held-out notebook test split\nRandom Forest | RMSE 2.73 months | Notebook cross-validation\nTuned LSTM | RMSE 6.57 months\nMAE 3.94 months, R² 0.89 | Five-fold notebook averages",
+      "textPreview": "Experiment | Recorded result | Evaluation | Random Forest | RMSE 2.89 months | Held-out notebook test split | Random Forest | RMSE 2.73 m...",
+      "rows": 4,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            64,
+            181,
+            310,
+            85.25
+          ],
+          "text": "Experiment",
+          "textPreview": "Experiment",
+          "fillColor": "#16251E",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Experiment",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Experiment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            374,
+            181,
+            445,
+            85.25
+          ],
+          "text": "Recorded result",
+          "textPreview": "Recorded result",
+          "fillColor": "#16251E",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Recorded result",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Recorded result"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            819,
+            181,
+            397,
+            85.25
+          ],
+          "text": "Evaluation",
+          "textPreview": "Evaluation",
+          "fillColor": "#16251E",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Evaluation",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Evaluation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            64,
+            266.25,
+            310,
+            85.25
+          ],
+          "text": "Random Forest",
+          "textPreview": "Random Forest",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Random Forest",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Random Forest"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            374,
+            266.25,
+            445,
+            85.25
+          ],
+          "text": "RMSE 2.89 months",
+          "textPreview": "RMSE 2.89 months",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "RMSE 2.89 months",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "RMSE 2.89 months"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            819,
+            266.25,
+            397,
+            85.25
+          ],
+          "text": "Held-out notebook test split",
+          "textPreview": "Held-out notebook test split",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Held-out notebook test split",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Held-out notebook test split"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            64,
+            351.5,
+            310,
+            85.25
+          ],
+          "text": "Random Forest",
+          "textPreview": "Random Forest",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Random Forest",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Random Forest"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            374,
+            351.5,
+            445,
+            85.25
+          ],
+          "text": "RMSE 2.73 months",
+          "textPreview": "RMSE 2.73 months",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "RMSE 2.73 months",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "RMSE 2.73 months"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            819,
+            351.5,
+            397,
+            85.25
+          ],
+          "text": "Notebook cross-validation",
+          "textPreview": "Notebook cross-validation",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Notebook cross-validation",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Notebook cross-validation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            64,
+            436.75,
+            310,
+            85.25
+          ],
+          "text": "Tuned LSTM",
+          "textPreview": "Tuned LSTM",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Tuned LSTM",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Tuned LSTM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            374,
+            436.75,
+            445,
+            85.25
+          ],
+          "text": "RMSE 6.57 months\nMAE 3.94 months, R² 0.89",
+          "textPreview": "RMSE 6.57 months | MAE 3.94 months, R² 0.89",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "RMSE 6.57 months",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "RMSE 6.57 months"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "MAE 3.94 months, R² 0.89",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "MAE 3.94 months, R² 0.89"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            819,
+            436.75,
+            397,
+            85.25
+          ],
+          "text": "Five-fold notebook averages",
+          "textPreview": "Five-fold notebook averages",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Five-fold notebook averages",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Five-fold notebook averages"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/k3qhgjy5",
+      "id": "4",
+      "bbox": [
+        64,
+        562,
+        1152,
+        62
+      ],
+      "geometry": "rect",
+      "text": "These experiments do not support a direct model ranking",
+      "textPreview": "These experiments do not support a direct model ranking",
+      "resolvedFontSize": 30,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 30,
+        "typeface": "Arial",
+        "color": "#007D55",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "These experiments do not support a direct model ranking"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "These experiments do not support a direct model ranking",
+          "resolvedTextStyle": {
+            "fontSize": 30,
+            "typeface": "Arial",
+            "color": "#007D55",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "These experiments do not support a direct model ranking",
+              "fontSize": 30,
+              "typeface": "Arial",
+              "color": "#007D55",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5ozi9ofq",
+      "id": "5",
+      "bbox": [
+        64,
+        636,
+        1100,
+        39
+      ],
+      "geometry": "rect",
+      "text": "Different input provenance and evaluation limitations require a fresh common benchmark.",
+      "textPreview": "Different input provenance and evaluation limitations require a fresh common benchmark.",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "Arial",
+        "color": "#52645A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Different input provenance and evaluation limitations require a fresh common benchmark."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Different input provenance and evaluation limitations require a fresh common benchmark.",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Arial",
+            "color": "#52645A"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Different input provenance and evaluation limitations require a fresh common benchmark.",
+              "fontSize": 19,
+              "typeface": "Arial",
+              "color": "#52645A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

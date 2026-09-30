@@ -1,0 +1,775 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/e7tjfa",
+    "id": "e7tjfa",
+    "slide": 6,
+    "layoutId": "ff651192-285a-456d-b75c-d15ce45564f5",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "e70cbce6-0090-4c19-b0f3-88501743e684",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F5F6F2",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "ff651192-285a-456d-b75c-d15ce45564f5",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "e70cbce6-0090-4c19-b0f3-88501743e684",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "e70cbce6-0090-4c19-b0f3-88501743e684",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ra90zuls",
+      "id": "1",
+      "bbox": [
+        64,
+        50,
+        1152,
+        108
+      ],
+      "geometry": "rect",
+      "text": "Note extraction example",
+      "textPreview": "Note extraction example",
+      "resolvedFontSize": 46,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 46,
+        "typeface": "Arial",
+        "color": "#16251E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Note extraction example"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Note extraction example",
+          "resolvedTextStyle": {
+            "fontSize": 46,
+            "typeface": "Arial",
+            "color": "#16251E",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Note extraction example",
+              "fontSize": 46,
+              "typeface": "Arial",
+              "color": "#16251E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sbi1szmd",
+      "id": "2",
+      "bbox": [
+        1170,
+        676,
+        50,
+        22
+      ],
+      "geometry": "rect",
+      "text": "06",
+      "textPreview": "06",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Arial",
+        "color": "#52645A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "06"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "06",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Arial",
+            "color": "#52645A"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "06",
+              "fontSize": 16,
+              "typeface": "Arial",
+              "color": "#52645A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tcbi143y",
+      "id": "3",
+      "bbox": [
+        64,
+        184,
+        525,
+        50
+      ],
+      "geometry": "rect",
+      "text": "Illustrative support note",
+      "textPreview": "Illustrative support note",
+      "resolvedFontSize": 29,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 29,
+        "typeface": "Arial",
+        "color": "#007D55",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Illustrative support note"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Illustrative support note",
+          "resolvedTextStyle": {
+            "fontSize": 29,
+            "typeface": "Arial",
+            "color": "#007D55",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Illustrative support note",
+              "fontSize": 29,
+              "typeface": "Arial",
+              "color": "#007D55",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/edkju94j",
+      "id": "4",
+      "bbox": [
+        64,
+        258,
+        543,
+        223
+      ],
+      "geometry": "rect",
+      "text": "“The volunteer has struggled to\nreach the family. Both want to\ncontinue, and the coordinator\nwill arrange a check-in.”",
+      "textPreview": "“The volunteer has struggled to | reach the family. Both want to | continue, and the coordinator | will arrange a check-in.”",
+      "resolvedFontSize": 31,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 31,
+        "typeface": "Arial",
+        "color": "#16251E",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "“The volunteer has struggled to"
+          },
+          {
+            "index": 2,
+            "text": "reach the family. Both want to"
+          },
+          {
+            "index": 3,
+            "text": "continue, and the coordinator"
+          },
+          {
+            "index": 4,
+            "text": "will arrange a check-in.”"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "“The volunteer has struggled to",
+          "resolvedTextStyle": {
+            "fontSize": 31,
+            "typeface": "Arial",
+            "color": "#16251E"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "“The volunteer has struggled to",
+              "fontSize": 31,
+              "typeface": "Arial",
+              "color": "#16251E"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "reach the family. Both want to",
+          "resolvedTextStyle": {
+            "fontSize": 31,
+            "typeface": "Arial",
+            "color": "#16251E"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "reach the family. Both want to",
+              "fontSize": 31,
+              "typeface": "Arial",
+              "color": "#16251E"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "continue, and the coordinator",
+          "resolvedTextStyle": {
+            "fontSize": 31,
+            "typeface": "Arial",
+            "color": "#16251E"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "continue, and the coordinator",
+              "fontSize": 31,
+              "typeface": "Arial",
+              "color": "#16251E"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "will arrange a check-in.”",
+          "resolvedTextStyle": {
+            "fontSize": 31,
+            "typeface": "Arial",
+            "color": "#16251E"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "will arrange a check-in.”",
+              "fontSize": 31,
+              "typeface": "Arial",
+              "color": "#16251E"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fetk3el4",
+      "id": "5",
+      "bbox": [
+        670,
+        184,
+        540,
+        50
+      ],
+      "geometry": "rect",
+      "text": "Structured output",
+      "textPreview": "Structured output",
+      "resolvedFontSize": 29,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 29,
+        "typeface": "Arial",
+        "color": "#007D55",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Structured output"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Structured output",
+          "resolvedTextStyle": {
+            "fontSize": 29,
+            "typeface": "Arial",
+            "color": "#007D55",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Structured output",
+              "fontSize": 29,
+              "typeface": "Arial",
+              "color": "#007D55",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gf21wzmp",
+      "id": "6",
+      "bbox": [
+        670,
+        249,
+        538,
+        352
+      ],
+      "geometry": "rect",
+      "text": "[\n  {\n    \"green_flag_count\": 1,\n    \"red_flag_count\": 1,\n    \"events\": {\n      \"Child/Family: Lost contact with volunteer\": 3\n    }\n  }\n]",
+      "textPreview": "[ |   { |     \"green_flag_count\": 1, |     \"red_flag_count\": 1, |     \"events\": { |       \"Child/Family: Lost contact with volunteer\": 3 ...",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Arial",
+        "color": "#16251E",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 9,
+        "lines": [
+          {
+            "index": 1,
+            "text": "["
+          },
+          {
+            "index": 2,
+            "text": "  {"
+          },
+          {
+            "index": 3,
+            "text": "    \"green_flag_count\": 1,"
+          },
+          {
+            "index": 4,
+            "text": "    \"red_flag_count\": 1,"
+          },
+          {
+            "index": 5,
+            "text": "    \"events\": {"
+          },
+          {
+            "index": 6,
+            "text": "      \"Child/Family: Lost contact with volunteer\": 3"
+          },
+          {
+            "index": 7,
+            "text": "    }"
+          },
+          {
+            "index": 8,
+            "text": "  }"
+          },
+          {
+            "index": 9,
+            "text": "]"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "[",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Arial",
+            "color": "#16251E"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "[",
+              "fontSize": 22,
+              "typeface": "Arial",
+              "color": "#16251E"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "  {",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Arial",
+            "color": "#16251E"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "  {",
+              "fontSize": 22,
+              "typeface": "Arial",
+              "color": "#16251E"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "    \"green_flag_count\": 1,",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Arial",
+            "color": "#16251E"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    \"green_flag_count\": 1,",
+              "fontSize": 22,
+              "typeface": "Arial",
+              "color": "#16251E"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "    \"red_flag_count\": 1,",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Arial",
+            "color": "#16251E"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    \"red_flag_count\": 1,",
+              "fontSize": 22,
+              "typeface": "Arial",
+              "color": "#16251E"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "    \"events\": {",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Arial",
+            "color": "#16251E"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    \"events\": {",
+              "fontSize": 22,
+              "typeface": "Arial",
+              "color": "#16251E"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "      \"Child/Family: Lost contact with volunteer\": 3",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Arial",
+            "color": "#16251E"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "      \"Child/Family: Lost contact with volunteer\": 3",
+              "fontSize": 22,
+              "typeface": "Arial",
+              "color": "#16251E"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "    }",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Arial",
+            "color": "#16251E"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "    }",
+              "fontSize": 22,
+              "typeface": "Arial",
+              "color": "#16251E"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 8,
+          "text": "  }",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Arial",
+            "color": "#16251E"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "  }",
+              "fontSize": 22,
+              "typeface": "Arial",
+              "color": "#16251E"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 9,
+          "text": "]",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Arial",
+            "color": "#16251E"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "]",
+              "fontSize": 22,
+              "typeface": "Arial",
+              "color": "#16251E"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1gb2543u",
+      "id": "7",
+      "bbox": [
+        64,
+        640,
+        1100,
+        39
+      ],
+      "geometry": "rect",
+      "text": "Synthetic illustration. Event severity is an assigned label, not a calibrated probability.",
+      "textPreview": "Synthetic illustration. Event severity is an assigned label, not a calibrated probability.",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "Arial",
+        "color": "#52645A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Synthetic illustration. Event severity is an assigned label, not a calibrated probability."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Synthetic illustration. Event severity is an assigned label, not a calibrated probability.",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Arial",
+            "color": "#52645A"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Synthetic illustration. Event severity is an assigned label, not a calibrated probability.",
+              "fontSize": 19,
+              "typeface": "Arial",
+              "color": "#52645A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

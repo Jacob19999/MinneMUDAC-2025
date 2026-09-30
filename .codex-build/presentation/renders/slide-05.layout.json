@@ -1,0 +1,669 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/55nin1",
+    "id": "55nin1",
+    "slide": 5,
+    "layoutId": "ff651192-285a-456d-b75c-d15ce45564f5",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "e70cbce6-0090-4c19-b0f3-88501743e684",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F5F6F2",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "ff651192-285a-456d-b75c-d15ce45564f5",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "e70cbce6-0090-4c19-b0f3-88501743e684",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "e70cbce6-0090-4c19-b0f3-88501743e684",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gzehcveh",
+      "id": "1",
+      "bbox": [
+        64,
+        50,
+        1152,
+        108
+      ],
+      "geometry": "rect",
+      "text": "Analysis pipeline",
+      "textPreview": "Analysis pipeline",
+      "resolvedFontSize": 46,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 46,
+        "typeface": "Arial",
+        "color": "#16251E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Analysis pipeline"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Analysis pipeline",
+          "resolvedTextStyle": {
+            "fontSize": 46,
+            "typeface": "Arial",
+            "color": "#16251E",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Analysis pipeline",
+              "fontSize": 46,
+              "typeface": "Arial",
+              "color": "#16251E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fy503qxw",
+      "id": "2",
+      "bbox": [
+        1170,
+        676,
+        50,
+        22
+      ],
+      "geometry": "rect",
+      "text": "05",
+      "textPreview": "05",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Arial",
+        "color": "#52645A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "05"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "05",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Arial",
+            "color": "#52645A"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "05",
+              "fontSize": 16,
+              "typeface": "Arial",
+              "color": "#52645A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/z61kj6hw",
+      "id": "3",
+      "bbox": [
+        64,
+        177,
+        1152,
+        391
+      ],
+      "text": "Stage | Input and transformation | Output\nPreparation | Support notes, match fields and Census context | Cleaned match and note records\nSemantic extraction | Grok identifies events and positive or concerning signals | 34 event fields and flag counts\nModeling | Aggregate features or dated match sequences | Exploratory duration estimates\nReporting | Power BI organizes trends and match context | Views for staff review",
+      "textPreview": "Stage | Input and transformation | Output | Preparation | Support notes, match fields and Census context | Cleaned match and note records...",
+      "rows": 5,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            64,
+            177,
+            240,
+            78.2
+          ],
+          "text": "Stage",
+          "textPreview": "Stage",
+          "fillColor": "#16251E",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Stage",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Stage"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            304,
+            177,
+            536,
+            78.2
+          ],
+          "text": "Input and transformation",
+          "textPreview": "Input and transformation",
+          "fillColor": "#16251E",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Input and transformation",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Input and transformation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            840,
+            177,
+            376,
+            78.2
+          ],
+          "text": "Output",
+          "textPreview": "Output",
+          "fillColor": "#16251E",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Output",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Output"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            64,
+            255.2,
+            240,
+            78.2
+          ],
+          "text": "Preparation",
+          "textPreview": "Preparation",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Preparation",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Preparation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            304,
+            255.2,
+            536,
+            78.2
+          ],
+          "text": "Support notes, match fields and Census context",
+          "textPreview": "Support notes, match fields and Census context",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Support notes, match fields and Census context",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Support notes, match fields and Census context"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            840,
+            255.2,
+            376,
+            78.2
+          ],
+          "text": "Cleaned match and note records",
+          "textPreview": "Cleaned match and note records",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Cleaned match and note records",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Cleaned match and note records"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            64,
+            333.4,
+            240,
+            78.2
+          ],
+          "text": "Semantic extraction",
+          "textPreview": "Semantic extraction",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Semantic extraction",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Semantic extraction"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            304,
+            333.4,
+            536,
+            78.2
+          ],
+          "text": "Grok identifies events and positive or concerning signals",
+          "textPreview": "Grok identifies events and positive or concerning signals",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Grok identifies events and positive or concerning signals",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Grok identifies events and positive or concerning signals"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            840,
+            333.4,
+            376,
+            78.2
+          ],
+          "text": "34 event fields and flag counts",
+          "textPreview": "34 event fields and flag counts",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "34 event fields and flag counts",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "34 event fields and flag counts"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            64,
+            411.6,
+            240,
+            78.2
+          ],
+          "text": "Modeling",
+          "textPreview": "Modeling",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Modeling",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Modeling"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            304,
+            411.6,
+            536,
+            78.2
+          ],
+          "text": "Aggregate features or dated match sequences",
+          "textPreview": "Aggregate features or dated match sequences",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Aggregate features or dated match sequences",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Aggregate features or dated match sequences"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            840,
+            411.6,
+            376,
+            78.2
+          ],
+          "text": "Exploratory duration estimates",
+          "textPreview": "Exploratory duration estimates",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Exploratory duration estimates",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Exploratory duration estimates"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            64,
+            489.8,
+            240,
+            78.2
+          ],
+          "text": "Reporting",
+          "textPreview": "Reporting",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Reporting",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Reporting"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            304,
+            489.8,
+            536,
+            78.2
+          ],
+          "text": "Power BI organizes trends and match context",
+          "textPreview": "Power BI organizes trends and match context",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Power BI organizes trends and match context",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Power BI organizes trends and match context"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            840,
+            489.8,
+            376,
+            78.2
+          ],
+          "text": "Views for staff review",
+          "textPreview": "Views for staff review",
+          "fillColor": "#F5F6F2",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Views for staff review",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Views for staff review"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/twni10fq",
+      "id": "4",
+      "bbox": [
+        64,
+        613,
+        1100,
+        39
+      ],
+      "geometry": "rect",
+      "text": "Automated calls, MatchForce integration and live alerts remain proposed extensions.",
+      "textPreview": "Automated calls, MatchForce integration and live alerts remain proposed extensions.",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "Arial",
+        "color": "#52645A",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Automated calls, MatchForce integration and live alerts remain proposed extensions."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Automated calls, MatchForce integration and live alerts remain proposed extensions.",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Arial",
+            "color": "#52645A"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Automated calls, MatchForce integration and live alerts remain proposed extensions.",
+              "fontSize": 19,
+              "typeface": "Arial",
+              "color": "#52645A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

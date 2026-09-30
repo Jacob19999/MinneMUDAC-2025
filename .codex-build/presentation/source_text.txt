@@ -1,0 +1,220 @@
+
+DECK BI Dashboard/Pipeline.pptx 9 slides
+ppt/slides/slide1.xml: Each MEC may coordinate up to  / 60 /  Volunteers / Matches / As-Is Situation (Manual Effort | Lack Of Visibility) / Time Consuming / Our Solution (Automation | Visibility | Alerts) / Match Coordinator / LLM Call Bot / 60 /  Volunteers / Matches / Speech Recognition / LLM /  (Event Detection)  / Match Event View / Match Event View / Match Coordinator / Spreadsheet Update
+ppt/slides/slide2.xml: 
+ppt/slides/slide3.xml: Data /   / Producers / Data Processing /   / Pipeline / Data Consumers / Train Dataset / Test Dataset / Manual Data Cleaning / GeoPandas / USA Census / XAI GROK /  (Event Detection)  / Power Bi / LSTM (Deep Learning) / External Data / Research Papers / BBB / Google Scholar / Model Prediction / Data & Alert Driven Decision / Pipeline Overview
+ppt/slides/slide4.xml: Manual Processing / Match Length Stats Analysis with Pandas: / Correlation / Standard Deviation / Outliers / Closure Seasons / GeoPandas / Extract centroid (Latitude, Longitude) From .shp files for each census block. / - Adds Distance Value between Big and Small / USA Census / Impute/Add missing Columns: / Education / Mean / Median Income / Race / Recategorization of categories to reduce category Count: / Gender / Race / Education Level / Occupation / Transformation of nested Temporal Features into column Features for LSTM Training.  / GeoPandas
+ppt/slides/slide5.xml: Prompt Context / Research Papers / BBB / Google Scholar / Context Prompt Green / Red Flags (Cached Context) / Context Prompt Negative Events / (Cached Context)
+ppt/slides/slide6.xml: Grok Query Structure / Output Format Prompt / Context Information (Flags & Events) / Match Rational Notes, events mentioned here doubles the green flag count / Context Cache  / Optimization to reduce input token count / Monthly Volunteer Mentor Catchup Notes  / Output Validation  / Serialize Into JSON / Transpose Feature To Columns
+ppt/slides/slide7.xml: LSTM Pipeline / Feature Engineering / Numerical Columns / Categorical Columns / Normalization / One Hot Encoder / KNN Imputer (K=5) / NParray Sequence / 0 / 1 / n / X = [R1 , R2 , R3, R4] | Y =R5[Match Len] / X = [R2 , R3 , R4, R5] | Y =R6[Match Len] / X = [R3 , R4 , R5, R6] | Y =R7[Match Len] / Hidden Size: / 256 / Layers:  / 2 / Learning Rate: 0.0005 / Batch Size: / 32 / Regularization:  / 0.3 / LSTM Model Parameters / Hyperparameter Tuning / Predictions
+ppt/slides/slide8.xml: Train & Test Dataset / Manual Data Cleaning / XAI GROK  / JSON Serialize / LSTM / Power Bi / GeoPandas / USA Census
+ppt/slides/slide9.xml: 
+
+DECK MUDAC/Presentation/Draft Data Stompers.pptx 16 slides
+ppt/slides/slide1.xml: Each MEC may coordinate up to  / 60 /  Volunteers / Matches / As-Is Situation (Manual Effort | Lack Of Visibility) / Time Consuming / Match Coordinator / Spreadsheet/ MatchForce Update
+ppt/slides/slide2.xml: Our Solution (Automation | Visibility | Alerts) / Match Coordinator / LLM Call Bot / 60 /  Volunteers / Matches / Speech Recognition / MatchForce API / LLM /  (Event Detection)  / Dashboard / Match Event View / Match View
+ppt/slides/slide3.xml: Data /   / Producers / Data Processing /   / Pipeline / Data Consumers / Train Dataset / Test Dataset / Manual Data Cleaning / GeoPandas / USA Census / XAI GROK /  (Event Detection)  / Power Bi / LSTM (Deep Learning) / External Data / Research Papers / BBB / Google Scholar / Model Prediction / Data & Alert Driven Decision / Pipeline Overview
+ppt/slides/slide4.xml: 
+ppt/slides/slide5.xml: 
+ppt/slides/slide6.xml: 
+ppt/slides/slide7.xml: a1v2J000002ug91QAA
+ppt/slides/slide8.xml: 
+ppt/slides/slide9.xml: 
+ppt/slides/slide10.xml: 
+ppt/slides/slide11.xml: Manual Processing / Match Length Stats Analysis with Pandas: / Correlation / Standard Deviation / Outliers / Closure Seasons / GeoPandas / Extract centroid (Latitude, Longitude) From .shp files for each census block. / - Adds Distance Value between Big and Small / USA Census / Impute/Add missing Columns: / Education / Mean / Median Income / Race / Recategorization of categories to reduce category Count: / Gender / Race / Education Level / Occupation / Transformation of nested Temporal Features into column Features for LSTM Training.  / GeoPandas
+ppt/slides/slide12.xml: Prompt Context / Research Papers / BBB / Google Scholar / Context Prompt Green / Red Flags (Cached Context) / Context Prompt Negative Events / (Cached Context)
+ppt/slides/slide13.xml: Grok Query Structure / Output Format Prompt / Context Information (Flags & Events) / Match Rational Notes, events mentioned here doubles the green flag count / Context Cache  / Optimization to reduce input token count / Monthly Volunteer Mentor Catchup Notes  / Output Validation  / Serialize Into JSON / Transpose Feature To Columns
+ppt/slides/slide14.xml: LSTM Pipeline / Feature Engineering / Numerical Columns / Categorical Columns / Normalization / One Hot Encoder / KNN Imputer (K=5) / NParray Sequence / 0 / 1 / n / X = [R1 , R2 , R3, R4] | Y =R5[Match Len] / X = [R2 , R3 , R4, R5] | Y =R6[Match Len] / X = [R3 , R4 , R5, R6] | Y =R7[Match Len] / Hidden Size: / 256 / Layers:  / 2 / Learning Rate: 0.0005 / Batch Size: / 32 / Regularization:  / 0.3 / LSTM Model Parameters / Hyperparameter Tuning / Predictions
+ppt/slides/slide15.xml: BS did say that she’s hoping to attend the Winter Picnic, but still has not reached P/G. / MEC isn’t sure the future of this match as BS seems frustrated and disheartened in the lack of engagement, enthusiasm and communication from P/G.  / BS cannot commit their time to the match anymore due to family matters, and is looking to close. /   / BS had talked to PG, and they’re in agreement about the match closing. They’re working together to find the healthiest closure option for LS /   / Match ID: a1v2J0000027dBaQAI
+ppt/slides/slide16.xml: Big said she "no longer feels she is getting anything out of it". MEC aknowledged her feelings and asked her to consider the benefits that Little is getting from the relationship and if she feels that is important. Big said she feels really guilty but she no longer wants to support Little if she isn't willing to at the minimum meet her with a match goal.  / Big contacted the Match Engagement Coordinator to request match closure, explaining that she was pregnant and had been severely ill for two months, preventing her from seeing her Little (Nariah) since their last conversation. / MatchID / : a1v2J000003LH2lQAG
+
+DECK MUDAC/Presentation/Slides new.pptx 10 slides
+ppt/slides/slide1.xml: Train & Test Dataset / Manual Data Cleaning / XAI GROK  / JSON Serialize / LSTM / Power Bi / GeoPandas / USA Census
+ppt/slides/slide2.xml: Data /   / Producers / Data Processing /   / Pipeline / Data Consumers / Train Dataset / Test Dataset / Manual Data Cleaning / GeoPandas / USA Census / XAI GROK /  (Event Detection)  / Power Bi / LSTM (Deep Learning) / External Data / Research Papers / BBB / Google Scholar / Model Prediction / Data & Alert Driven Decision / Pipeline Overview
+ppt/slides/slide3.xml: Manual Processing / Match Length Stats Analysis with Pandas: / Correlation / Standard Deviation / Outliers / Closure Seasons / GeoPandas / Extract centroid (Latitude, Longitude) From .shp files for each census block. / - Adds Distance Value between Big and Small / USA Census / Impute/Add missing Columns: / Education / Mean / Median Income / Race / Recategorization of categories to reduce category Count: / Gender / Race / Education Level / Occupation / Transformation of nested Temporal Features into column Features for LSTM Training.  / GeoPandas
+ppt/slides/slide4.xml: Prompt Context / Research Papers / BBB / Google Scholar / Context Prompt Green / Red Flags (Cached Context) / Context Prompt Negative Events / (Cached Context)
+ppt/slides/slide5.xml: Grok Query Structure / Output Format Prompt / Context Information (Flags & Events) / Match Rational Notes, events mentioned here doubles the green flag count / Context Cache Optimization to reduce input token count / Monthly Volunteer Mentor Catchup Notes 
+ppt/slides/slide6.xml: Match ID: a1v2J000003AOnYQAW
+ppt/slides/slide7.xml: 
+ppt/slides/slide8.xml: MatchId: / a1v2J000002ug91QAA
+ppt/slides/slide9.xml: BS did say that she’s hoping to attend the Winter Picnic, but still has not reached P/G. / MEC isn’t sure the future of this match as BS seems frustrated and disheartened in the lack of engagement, enthusiasm and communication from P/G.  / BS cannot commit their time to the match anymore due to family matters, and is looking to close. /   / BS had talked to PG, and they’re in agreement about the match closing. They’re working together to find the healthiest closure option for LS /   / Match ID: a1v2J0000027dBaQAI
+ppt/slides/slide10.xml: Big said she "no longer feels she is getting anything out of it". MEC aknowledged her feelings and asked her to consider the benefits that Little is getting from the relationship and if she feels that is important. Big said she feels really guilty but she no longer wants to support Little if she isn't willing to at the minimum meet her with a match goal.  / Big contacted the Match Engagement Coordinator to request match closure, explaining that she was pregnant and had been severely ill for two months, preventing her from seeing her Little (Nariah) since their last conversation. / MatchID / : a1v2J000003LH2lQAG
+
+DECK BI Dashboard/Powerpoint/Slides Jacob.pptx 6 slides
+ppt/slides/slide1.xml: Train & Test Dataset / Manual Data Cleaning / XAI GROK  / JSON Serialize / LSTM / Power Bi / GeoPandas / USA Census
+ppt/slides/slide2.xml: Data /   / Producers / Data Processing /   / Pipeline / Data Consumers / Train Dataset / Test Dataset / Manual Data Cleaning / GeoPandas / USA Census / XAI GROK /  (Event Detection)  / Power Bi / LSTM (Deep Learning) / External Data / Research Papers / BBB / Google Scholar / Model Prediction / Data & Alert Driven Decision / Pipeline Overview
+ppt/slides/slide3.xml: Manual Processing / Match Length Stats Analysis with Pandas: / Correlation / Standard Deviation / Outliers / Closure Seasons / GeoPandas / Extract centroid (Latitude, Longitude) From .shp files for each census block. / - Adds Distance Value between Big and Small / USA Census / Impute/Add missing Columns: / Education / Mean / Median Income / Race / Recategorization of categories to reduce category Count: / Gender / Race / Education Level / Occupation / Transformation of nested Temporal Features into column Features for LSTM Training.  / GeoPandas
+ppt/slides/slide4.xml: Prompt Context / Research Papers / BBB / Google Scholar / Context Prompt Green / Red Flags (Cached Context) / Context Prompt Negative Events / (Cached Context)
+ppt/slides/slide5.xml: Grok Query Structure / Output Format Prompt / Context Information (Flags & Events) / Match Rational Notes, events mentioned here doubles the green flag count / Context Cache Optimization to reduce input token count / Monthly Volunteer Mentor Catchup Notes 
+ppt/slides/slide6.xml: 
+
+DOC Data Sources.docx
+
+
+Data Sources
+
+Data Dictionary: Link
+
+Novice - this data is for Novice division
+3,275 records - each row is a unique match between Big/Little
+66 fields; 2 Fields excluded
+Match Support Contact Notes (open text field), and 
+Complete Date (date of Match Support Contact Notes)
+
+Training- this data is for Undergraduate and Graduate divisions
+39,345 records - each row is a unique match - note instance combination
+3275 unique matches
+Note instances collected over time
+68 fields
+
+Test - Truncated - this data is for Undergraduate and Graduate divisions
+2,566 records - each row is a unique match - not instance combination
+300 unique matches, ~ 10% of the closed matches 
+Instances of the Match Support Call Notes have been truncated (see below)
+63 fields; Fields removed include:
+Stage (all matches are Closed in Test set)
+Closure Reason
+Closure Details
+Match Closure Meeting Date
+Match Length
+Truncation Scheme
+Truncation of Match Support Contact Notes was necessary to build a predictive model for Match Length
+A percentage of the most recent note instances have been deleted for most records
+A schematic of the truncation process is provided here.
+
+
+
+
+
+
+Additional Data Source
+
+MinneMUDAC 2025 participants are encouraged to use additional data sources.  The data must be free to use and publicly available.  Teams are not allowed to use proprietary/private data.
+
+
+DOC Findings.docx
+Identify potential green flags (e.g., factors likely to enhance relationship quality and duration) and red flags (e.g., risks of early termination or poor outcomes)
+In Context:
+BBB = Big brothers’ big sisters of America organization
+LB/LS = Little Brother/Sister (Mentee)
+BB/BS = Big Brother/Sister (Mentor Or Volunteer)
+MEC or MSC = Match coordinator from BBB
+PG = Parent of LB/LS
+Current Service area = Minnesota
+
+Green Flags to Detect:
+Evidence of Mentors who received the required two-hour, curriculum-based training before or within one month of the match start are likely better prepared, enhancing match quality.
+Commitment to an 18-month relationship, indicates stability and potential for positive outcomes.
+Matches based on shared interests or dislikes, with mentor preferences considered.
+Monthly in-person or phone support from agency staff to mentors, youth, and parents correlates with longer, higher-quality matches
+High mentor satisfaction and realistic expectations about the relationship.
+Positive youth-reported relationship quality and frequent meetings.
+Mentor-youth demographic (Race, gender, religion) alignment suggest strong, lasting match.
+Training from BBB, mentee parental involvement with mentor, and matching based on shared interests or similarities enhance quality and longevity. Ongoing program support repairs conflicts.
+Evidence Close geographic location between mentor and mentee or access to readily available transportation if mentor don’t have a car.
+Positive Youth Development constructs (e.g., the five Cs: competence, confidence, connection, care, character) and thriving-oriented activities mediate better outcomes, enhancing relationship quality. Strong parent-child relationships can also amplify mentoring benefits.
+Mentor is older, experienced mentors with positive attitudes toward youth, high self-efficacy, and multicultural competence foster stronger, longer matches. Empathy and flexibility are key.
+Mentees with better relational histories, positive personality traits, and moderate risk status show higher relationship quality. Younger mentees (elementary to early adolescence) form closer bonds.
+
+Red Flags to Detect:
+Lack of pre-match training or inadequate ongoing support.
+Mismatches in interests, especially if mentors reject youth preferences.
+Infrequent or superficial staff check-ins (e.g., under 6 minutes).
+Signs of mentor frustration, unrealistic expectations, or youth resistance without support.
+Absence of closure plans or meetings if the match is ending prematurely.
+Premature termination (e.g., <6 months) is common (34–50% of matches) and linked to decreased self-worth and scholastic competence. Early closures often stem from dissatisfaction, unrealistic expectations, or poor termination management, leading to feelings of rejection or distrust in mentees
+Mentor is younger (18–25) or those with negative attitudes, low commitment, or cultural insensitivity often struggle, risking early termination.
+Mentee is Older adolescents seeking autonomy or those with severe risk factors (e.g., family instability) may resist connection, increasing termination risk.
+Absence of monthly staff support contacts (or reliance on email rather than phone/in-person) is linked to reduced match quality and duration
+BBB provided inadequate training to mentor, or excessive/scanty staff involvement heighten closure risks. Mentee Parental dissatisfaction or interference with mentor can destabilize matches.
+Relationships ending before 13–18 months may indicate instability or dissatisfaction, undermining potential benefits.
+
+
+Given the following text about a match, summarize it into a JSON time series. For each date, include a 'date' field and a 'features' object with severity scores (0-5) for these event types:
+Child/Family: Feels incompatible with volunteer
+Volunteer: Moved
+Child/Family: Moved
+Volunteer: Feels incompatible with child/family
+Child: Graduated
+Child: Lost interest
+Volunteer: Lost contact with child/agency
+Child/Family: Lost contact with agency
+Child/Family: Lost contact with volunteer/agency
+Child: Family structure changed
+Child/Family: Lost contact with volunteer
+Child: Severity of challenges
+Successful match closure
+Volunteer: Time constraint
+Child/Family: Moved out of service area
+Volunteer: Moved out of service area
+Child/Family: Time constraints
+Volunteer: Lost contact with agency
+COVID impact
+Volunteer: Deceased
+Volunteer: Lost contact with child/family
+Volunteer: Infraction of match rules/agency policies
+Volunteer: Unrealistic expectations
+Agency: Challenges with program/partnership
+Child/Family: Unrealistic expectations
+Volunteer: Changed workplace/school partnership
+Child: Changed school/site
+Child/Family: Infraction of match rules/agency policies
+Volunteer: Moved within service area
+Agency: Concern with Volunteer re: child safety
+Child/Family: Moved within service area
+Changing Match Type
+Volunteer: Pregnancy
+
+
+Do not include event if the event doesn’t occur.  Add an 'event_count' field for the number of events on that date. Event-Specific Severity Scores: Separate fields for each event type (e.g., communication_issues_severity), with a score from 0 (no event) to 5 (critical). This creates a consistent feature set across all time steps. event_count: Number of events at that time step, useful for weighting or normalization.
+
+Output format JSON:
+[
+  {
+    "date": "YYYY-MM-DD",
+    "features": {
+      " Child/Family: Unrealistic expectations": <score>,
+      " Child/Family: Infraction of match rules/agency policies": <score>,
+      "event_count": <number>
+      "green_flag_count": <number>
+       "red_flag_count ": <number>
+    }
+  },
+  ...
+]
+
+
+Create a trend of the following items over time for the mentee (Between each catchup, approximate the increasing or decreasing trend of those items below): 
+Depressive Symptoms 
+Prosocial Behaviour 
+Social Acceptance 
+Parent-Child Relationship Quality 
+Misconduct 
+Self-Perception of Academic Ability 
+Skipping School 
+Academic Performance
+
+
+
+
+Supplement:
+  Relationship Characteristics (RQ1) 
+Green Flags: Long-lasting relationships (≥12 months) with consistent, frequent interactions correlate with improved mentee outcomes (e.g., self-worth, academic competence, reduced behavioral issues). High-quality relationships feature support, trust, sensitivity, and a balanced mix of emotional, recreational, and goal-oriented activities. Structured yet flexible interactions enhance perceived mentor commitment.
+Red Flags: Premature termination (e.g., <6 months) is common (34–50% of matches) and linked to decreased self-worth and scholastic competence. Early closures often stem from dissatisfaction, unrealistic expectations, or poor termination management, leading to feelings of rejection or distrust in mentees.
+  Measurement Approaches (RQ2) 
+Relationship quality is assessed via adapted scales (e.g., from psychotherapy) or mentoring-specific tools, focusing on trust, closeness, and support. However, inconsistent validation limits precision, suggesting caution in over-relying on self-reports without multiple perspectives.
+  Mediating Processes (RQ3) 
+Green Flags: Positive Youth Development constructs (e.g., the five Cs: competence, confidence, connection, care, character) and thriving-oriented activities mediate better outcomes, enhancing relationship quality. Strong parent-child relationships can also amplify mentoring benefits.
+Red Flags: Lack of engagement in thriving activities or poor mentor-mentee closeness may weaken developmental gains.
+  Moderating Variables (RQ4) 
+Mentor Characteristics: 
+Green Flags: Older, experienced mentors with positive attitudes toward youth, high self-efficacy, and multicultural competence foster stronger, longer matches. Empathy and flexibility are key.
+Red Flags: Younger mentors (18–25) or those with negative attitudes, low commitment, or cultural insensitivity often struggle, risking early termination.
+Mentee Characteristics: 
+Green Flags: Mentees with better relational histories, positive personality traits, and moderate risk status show higher relationship quality. Younger mentees (elementary to early adolescence) form closer bonds.
+Red Flags: Older adolescents seeking autonomy or those with severe risk factors (e.g., family instability) may resist connection, increasing termination risk.
+Program Practices & Matching: 
+Green Flags: Training, parental involvement, and matching based on shared interests or similarities enhance quality and longevity. Ongoing program support repairs conflicts.
+Red Flags: Poor matching (e.g., significant dissimilarities), inadequate training, or excessive/scanty staff involvement heighten closure risks. Parental dissatisfaction or interference can destabilize matches.
+  Practical Implications 
+Programs should prioritize mentor maturity, training for empathy and goal-setting, and careful matching. Proper closure processes mitigate harm from terminations. Longitudinal research is needed to refine these indicators.
